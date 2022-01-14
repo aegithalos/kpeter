@@ -1,0 +1,25 @@
+baseURL = "https://kpeskuvo.hu"
+languageCode = "hu-hu"
+title = "Kati és Péter esküvője"
+theme = "bare"
+enableGitInfo = true
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+
+[params]
+mainSections = ["post"]
+author = "P. Péter"
+email = "pasztor.pasztor@gmail.com"
+repoLink = "https://github.com/"
+description = 'MAGIS'
+# PostCSS is harder than it should be to get working on a theme
+# example site. It's easy on _your_ site.
+postcss = false
+# Include the author name in the <title> of articles
+includeAuthorInTitle = false
+
+[[params.social]]
+icon = "github"
+url = "https://github.com/aegithalos/"
