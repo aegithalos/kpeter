@@ -13,8 +13,15 @@
 ###  publish = "build-output/"
 
   # Default build command.
-  command = "./build.sh"
+  command = "git submodule update --init --recursive --depth=1 && hugo --minify --ignoreCache"
+
+#  command = "./build.sh"
 
 
 [context.production.environment]
   HUGO_VERSION = "0.80.0"
+
+
+
+[context.deploy-preview]
+command = "git submodule update --init --recursive --depth=1 && hugo -b $DEPLOY_PRIME_URL --minify --ignoreCache"
