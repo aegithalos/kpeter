@@ -1,11 +1,11 @@
-<nav class="navbar is-transparent {{ if .Page.IsHome }}is-hidden-touch{{end}}" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
+<nav class="navbar is-transparent  {{ if .Page.IsHome }}is-hidden-touch{{end}}" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand pl-10">
     <a class="navbar-item" href="{{ $.Site.Home.Permalink }}">
       <figure class="image">
-        <img alt="" class="is-rounded" src="https://www.gravatar.com/avatar/{{ md5 $.Site.Params.email }}?s=128&d=identicon">
+        <img alt="" class="is-rounded" src="/images/marriage.png">
       </figure>
     </a>
-    <a class="navbar-item" href="{{ $.Site.Home.Permalink }}">
+    <a class="navbar-item is-size-3 has-text-centered is-warning"  href="{{ $.Site.Home.Permalink }}">
       {{ $.Site.Title }}
     </a>
   </div>
@@ -42,13 +42,13 @@
         </span>
       </a>
       {{ end }}
-      {{ with $.Site.Home.OutputFormats.Get "rss" -}}
-      <a class="navbar-item" href="{{ .Permalink }}" target="_blank">
-        <span class="icon">
-          <img alt="rss" src='{{ (resources.Get "icons/svg/rss.svg").Permalink }}'>
-        </span>
-      </a>
-      {{ end }}
+      <!-- {{ with $.Site.Home.OutputFormats.Get "rss" -}} -->
+      <!-- <a class="navbar-item" href="{{ .Permalink }}" target="_blank"> -->
+      <!--   <span class="icon"> -->
+      <!--     <img alt="rss" src='{{ (resources.Get "icons/svg/rss.svg").Permalink }}'> -->
+      <!--   </span> -->
+      <!-- </a> -->
+      <!-- {{ end }} -->
     </div>
   </div>
 </nav>
