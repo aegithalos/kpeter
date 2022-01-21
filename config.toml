@@ -9,7 +9,7 @@ enableGitInfo = true
   series = "series"
 
 [params]
-mainSections = ["post"]
+mainSections = ["posts"]
 author = "P. Péter"
 email = "pasztor.pasztor@gmail.com"
 repoLink = "https://github.com/"
