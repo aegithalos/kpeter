@@ -1,6 +1,6 @@
 <footer class="footer">
 <!-- Display the countdown timer in an element -->
-    <div class="column navbar-item is-size-6 has-text-centered has-text-warning" id="countdown"></p>
+    <div class="column navbar-item is-size-4 has-text-centered has-text-warning" id="countdown"></p>
 
     <script>
      // Set the date we're counting down to
@@ -22,8 +22,8 @@
 	 var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
 	 // Display the result in the element with id="countdown"
-	 document.getElementById("countdown").innerHTML = "  (Már csak " + days + " nap, " + hours + " óra és "
-						   + minutes + " perc !!!)";
+	 document.getElementById("countdown").innerHTML = "  Már csak " + days + " nap, " + hours + " óra és "
+						   + minutes + " perc.";
 
 	 // If the count down is finished, write some text
 	 if (distance < 0) {
