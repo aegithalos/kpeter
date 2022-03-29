@@ -1,3 +1,6 @@
+{{ if .Site.Params.favicon }}
+<link rel="icon" href="{{ .Site.Params.favicon | relURL }}">
+{{ end }}
 <nav class="navbar is-transparent"
 role="navigation" aria-label="main navigation">
   <div class="navbar-brand pl-10">

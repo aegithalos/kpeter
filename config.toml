@@ -19,6 +19,7 @@ description = 'MAGIS'
 postcss = false
 # Include the author name in the <title> of articles
 includeAuthorInTitle = false
+favicon = "/images/kp-logo.png"
 
 [[params.social]]
 icon = "github"
