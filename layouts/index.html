@@ -17,14 +17,19 @@
 	</div>
     </article>
 
-    <div class="columns is-warning">
-    <div class="column is-8 is-offset-2">
-	<img src="/images/kati-peter.jpg" alt="Kati és Péter">
+    <div class="columns is-warning mb-0 pb-0">
+	<div class="column is-2 is-offset-0 is-size-4">
+	    {{ range $.Site.RegularPages }}
+		{{ if eq .Section "posts" }}
+	    <a href="{{ .RelPermalink }}" class="navbar-item">
+		{{- .Title -}}
+	    </a>
+                {{ end }}
+            {{ end }}
+	</div>
+	<div class="column is-8 is-offset-2">
+	    <img src="/images/kati-peter.jpg" alt="Kati és Péter">
+	</div>
     </div>
 </div>
-</div>
-{{ end }}
-
-{{ define "main" }}
-{{ partial "posts.html" (where site.RegularPages "Type" "in" site.Params.mainSections) }}
 {{ end }}
