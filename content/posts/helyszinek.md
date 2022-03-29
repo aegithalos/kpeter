@@ -1,6 +1,7 @@
 ---
-title: Helyszínek
+title: Helyszínek, megközelítés
 date: 2022-01-21
+weight: 90
 description: Helyszínek
 ---
 

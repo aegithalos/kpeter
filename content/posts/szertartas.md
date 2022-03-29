@@ -1,6 +1,7 @@
 ---
-title: Szertartás
+title: Praktikus információk
 date: 2022-01-18
+weight: 80
 description: Szertartás
 ---
 # A HÁZASSÁGKÖTÉS SZERTARTÁSA

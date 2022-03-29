@@ -1,6 +1,7 @@
 ---
-title: Ajándéklista
+title: Nászajándék
 date: 2022-03-28
+weight: 100
 description: Ajándéklista
 ---
 
