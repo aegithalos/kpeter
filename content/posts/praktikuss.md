@@ -10,13 +10,12 @@ description: Praktikus információk
 Nagy szeretettel várjuk 20:00-tól a lakodalomra hivatalos rokonainkat, barátainkat, mely
 hidegtálas fogadás valamint „batyus bál” jellegű lesz.
 
-Erre az alkalomra örömmel elfogadnánk batyutokból egy tál süteményt, amit előre is hálásan
+Erre az alkalomra örömmel elfogadnánk batyutokból egy tál édes vagy sós süteményt, amit előre is hálásan
 köszönünk. Kérünk Benneteket, hogy a finomságokat olyan tálcán hozzátok, ami feliratozott
 (vagy papír, eldobható), hogy ne legyen kavarodás.
 
 A lakodalom és közös ünneplés hajnali 2-kor ér véget.
 
-### Gyerekek
 
 Kérjük, hogy gyerekeknek etetőszéket mindenki magának biztosítson!
 
@@ -27,10 +26,12 @@ lesz rá, kérünk titeket, hogy hozzatok.
 ###  Fórum
 
 Készítettünk egy zárt Facebook csoportot erre a célra, hogy tudjatok közérdekű kérdéseket
-felvetni, megbeszélni.
+felvetni, megbeszélni.  Kérjük, hogy az édes vagy sós sütit is itt jelezzétek.
+
 
 Ez az alábbi linken érhető el:
 
+https://www.facebook.com/groups/310520614444950
 
 
 ### Visszajelzés
@@ -42,7 +43,7 @@ tudsz/tudtok eljönni.
 Kérjük, hogy **részvételi szándékodat mindenképp jelezd vissza április 20-ig**  Pásztor
 Móninak!
 
-### Szállás lehetőség
+### Szállás tippek
 
 Hamarosan.
 
