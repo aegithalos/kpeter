@@ -5,8 +5,11 @@ weight: 100
 description: Ajándéklista
 ---
 
+Számunkra az már önmagában nagy-nagy ajándék és megtiszteltetés, ha május 7-én velünk
+ünnepelsz.
+
 Ha szeretnéd támogatni közös életünk kezdeti lépéseit, megteheted személyes
 ajándékban vagy akár egy borítékban is!
 
-Ha azonban ötletet keresel,
+Ha  ötletet keresel,
 [ide kattintva találsz párat!](https://docs.google.com/spreadsheets/d/1U5_eENGurb3m8noGlSONX2DnGrk6pLbir4vY_Cg-QWQ/edit?usp=drivesdk)

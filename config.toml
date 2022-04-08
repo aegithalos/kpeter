@@ -4,6 +4,9 @@ title = "Kati és Péter esküvője"
 theme = "bare"
 enableGitInfo = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [taxonomies]
   tag = "tags"
   series = "series"
