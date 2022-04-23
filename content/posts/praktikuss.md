@@ -2,7 +2,7 @@
 title: Lakodalommal kapcsolatos praktikus információk
 date: 2022-01-18
 weight: 210
-description: Praktikus információk
+description: Lakodalmas információk
 ---
 
 ### Lakodalom
