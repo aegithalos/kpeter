@@ -1,7 +1,7 @@
 ---
 title: Praktikus információk
 date: 2022-01-18
-weight: 80
+weight: 210
 description: Praktikus információk
 ---
 
