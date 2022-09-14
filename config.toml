@@ -3,6 +3,7 @@ languageCode = "hu-hu"
 title = "Kati és Péter esküvője"
 theme = "bare"
 enableGitInfo = true
+ignoreErrors = ["error-remote-getjson"]
 
 [markup.goldmark.renderer]
 unsafe = true
