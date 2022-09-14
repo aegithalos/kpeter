@@ -16,6 +16,7 @@ köszönünk. Kérünk Benneteket, hogy a finomságokat olyan tálcán hozzátok
 
 A lakodalom és közös ünneplés hajnali 2-kor ér véget.
 
+#+html: {{% hugo-encryptor "nininina" %}}
 
 Kérjük, hogy gyerekeknek etetőszéket mindenki magának biztosítson!
 
@@ -93,3 +94,5 @@ Kérünk benneteket, ha bárki kicsit is rosszul vagy gyengének érzi magát, i
 
 A fentiekkel kapcsolatban forduljatok bizalommal Pásztor Mónihoz a meghívón, vagy az itt
 található elérhetőségek egyikén.
+
+#+html: {{% /hugo-encryptor %}}
